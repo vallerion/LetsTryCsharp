@@ -15,7 +15,7 @@ namespace Tests
 
             var np = new NamePrinter.Printer("Valera");
             np.Print();
-            Assert.Equal("NAME: Valera\n", sw.ToString());
+            Assert.Equal("Name: Valera\n", sw.ToString());
         }
     }
 }
