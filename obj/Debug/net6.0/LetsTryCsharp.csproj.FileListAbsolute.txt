@@ -1,0 +1,12 @@
+/code/bin/Debug/net6.0/LetsTryCsharp.deps.json
+/code/bin/Debug/net6.0/LetsTryCsharp.dll
+/code/bin/Debug/net6.0/LetsTryCsharp.pdb
+/code/obj/Debug/net6.0/LetsTryCsharp.csproj.AssemblyReference.cache
+/code/obj/Debug/net6.0/LetsTryCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/code/obj/Debug/net6.0/LetsTryCsharp.AssemblyInfoInputs.cache
+/code/obj/Debug/net6.0/LetsTryCsharp.AssemblyInfo.cs
+/code/obj/Debug/net6.0/LetsTryCsharp.csproj.CoreCompileInputs.cache
+/code/obj/Debug/net6.0/LetsTryCsharp.dll
+/code/obj/Debug/net6.0/refint/LetsTryCsharp.dll
+/code/obj/Debug/net6.0/LetsTryCsharp.pdb
+/code/obj/Debug/net6.0/ref/LetsTryCsharp.dll

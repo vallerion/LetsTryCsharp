@@ -1,0 +1,5 @@
+/code/Tests/obj/Debug/net6.0/LetsTryCsharp.Tests.csproj.AssemblyReference.cache
+/code/Tests/obj/Debug/net6.0/LetsTryCsharp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/code/Tests/obj/Debug/net6.0/LetsTryCsharp.Tests.AssemblyInfoInputs.cache
+/code/Tests/obj/Debug/net6.0/LetsTryCsharp.Tests.AssemblyInfo.cs
+/code/Tests/obj/Debug/net6.0/LetsTryCsharp.Tests.csproj.CoreCompileInputs.cache

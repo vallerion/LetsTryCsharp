@@ -1,0 +1,12 @@
+/code/NamePrinter/bin/Debug/net6.0/NamePrinter.deps.json
+/code/NamePrinter/bin/Debug/net6.0/NamePrinter.dll
+/code/NamePrinter/bin/Debug/net6.0/NamePrinter.pdb
+/code/NamePrinter/obj/Debug/net6.0/NamePrinter.csproj.AssemblyReference.cache
+/code/NamePrinter/obj/Debug/net6.0/NamePrinter.GeneratedMSBuildEditorConfig.editorconfig
+/code/NamePrinter/obj/Debug/net6.0/NamePrinter.AssemblyInfoInputs.cache
+/code/NamePrinter/obj/Debug/net6.0/NamePrinter.AssemblyInfo.cs
+/code/NamePrinter/obj/Debug/net6.0/NamePrinter.csproj.CoreCompileInputs.cache
+/code/NamePrinter/obj/Debug/net6.0/NamePrinter.dll
+/code/NamePrinter/obj/Debug/net6.0/refint/NamePrinter.dll
+/code/NamePrinter/obj/Debug/net6.0/NamePrinter.pdb
+/code/NamePrinter/obj/Debug/net6.0/ref/NamePrinter.dll
