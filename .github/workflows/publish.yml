@@ -15,8 +15,8 @@ jobs:
       - uses: actions/setup-dotnet@v2
         with:
           dotnet-version: '6.0.x'
-      - run: dotnet build --configuration Release MessageBird -f net6.0
+      - run: dotnet build --configuration Release NamePrinter -f net6.0
       - name: Create the package
-        run: dotnet pack --configuration Release /p:Version=${{github.event.release.tag_name}} MessageBird 
+        run: dotnet pack --configuration Release /p:Version=${{github.event.release.tag_name}} NamePrinter 
       - name: Publish the package to GPR
-        run: dotnet nuget push MessageBird/bin/Release/*.nupkg --api-key ${{secrets.NUGET_AUTH_TOKEN}} --source https://api.nuget.org/v3/index.json
+        run: dotnet nuget push NamePrinter/bin/Release/*.nupkg --api-key ${{secrets.NUGET_AUTH_TOKEN}} --source https://api.nuget.org/v3/index.json
