@@ -1,0 +1,7 @@
+# MacOS files
+.DS_Store
+
+# JetBrains directory
+.idea/
+
+bin/
