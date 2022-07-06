@@ -11,7 +11,7 @@
         
         public void Print()
         {
-            System.Console.WriteLine("NAME: " + Name);
+            System.Console.WriteLine("Name: " + Name);
         }
     }
 }
